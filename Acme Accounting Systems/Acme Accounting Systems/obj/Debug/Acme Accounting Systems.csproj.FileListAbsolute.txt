@@ -1,0 +1,5 @@
+C:\Users\Mark Wahlbang\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe.config
+C:\Users\Mark Wahlbang\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe
+C:\Users\Mark Wahlbang\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.pdb
+C:\Users\Mark Wahlbang\source\repos\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.exe
+C:\Users\Mark Wahlbang\source\repos\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.pdb
