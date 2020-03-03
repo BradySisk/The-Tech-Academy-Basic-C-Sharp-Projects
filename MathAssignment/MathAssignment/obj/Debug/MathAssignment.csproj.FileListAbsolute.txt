@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb
