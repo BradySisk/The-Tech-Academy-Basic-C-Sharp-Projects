@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\bin\Debug\ApprovalProgram.exe.config
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\bin\Debug\ApprovalProgram.exe
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\bin\Debug\ApprovalProgram.pdb
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\obj\Debug\ApprovalProgram.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\obj\Debug\ApprovalProgram.exe
+C:\Users\Mark Wahlbang\source\repos\ApprovalProgram\ApprovalProgram\obj\Debug\ApprovalProgram.pdb
