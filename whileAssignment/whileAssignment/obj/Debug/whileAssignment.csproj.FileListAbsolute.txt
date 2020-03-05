@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\bin\Debug\whileAssignment.exe.config
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\bin\Debug\whileAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\bin\Debug\whileAssignment.pdb
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\obj\Debug\whileAssignment.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\obj\Debug\whileAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\whileAssignment\whileAssignment\obj\Debug\whileAssignment.pdb
