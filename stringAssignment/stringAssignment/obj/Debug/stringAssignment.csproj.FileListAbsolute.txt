@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe.config
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\bin\Debug\stringAssignment.pdb
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\obj\Debug\stringAssignment.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\obj\Debug\stringAssignment.exe
+C:\Users\Mark Wahlbang\source\repos\stringAssignment\stringAssignment\obj\Debug\stringAssignment.pdb
