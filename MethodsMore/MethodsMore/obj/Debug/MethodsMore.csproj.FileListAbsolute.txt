@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\bin\Debug\MethodsMore.exe.config
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\bin\Debug\MethodsMore.exe
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\bin\Debug\MethodsMore.pdb
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\obj\Debug\MethodsMore.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\obj\Debug\MethodsMore.exe
+C:\Users\Mark Wahlbang\source\repos\MethodsMore\MethodsMore\obj\Debug\MethodsMore.pdb
