@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\bin\Debug\PersonClass.exe.config
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\bin\Debug\PersonClass.exe
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\bin\Debug\PersonClass.pdb
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\obj\Debug\PersonClass.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\obj\Debug\PersonClass.exe
+C:\Users\Mark Wahlbang\source\repos\PersonClass\PersonClass\obj\Debug\PersonClass.pdb
