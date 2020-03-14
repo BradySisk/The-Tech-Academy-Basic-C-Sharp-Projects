@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe.config
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.pdb
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.exe
+C:\Users\Mark Wahlbang\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.pdb
