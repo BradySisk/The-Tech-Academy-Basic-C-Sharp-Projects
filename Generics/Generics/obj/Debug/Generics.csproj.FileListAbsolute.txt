@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Mark Wahlbang\source\repos\Generics\Generics\obj\Debug\Generics.pdb
