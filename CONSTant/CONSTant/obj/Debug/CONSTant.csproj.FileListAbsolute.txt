@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\obj\Debug\CONSTant.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\bin\Debug\CONSTant.exe.config
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\bin\Debug\CONSTant.exe
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\bin\Debug\CONSTant.pdb
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\obj\Debug\CONSTant.exe
+C:\Users\Mark Wahlbang\source\repos\CONSTant\CONSTant\obj\Debug\CONSTant.pdb
