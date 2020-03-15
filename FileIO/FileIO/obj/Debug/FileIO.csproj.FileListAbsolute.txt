@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Mark Wahlbang\source\repos\FileIO\FileIO\obj\Debug\FileIO.pdb
