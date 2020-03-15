@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\bin\Debug\CurrentTimeeeee.exe.config
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\bin\Debug\CurrentTimeeeee.exe
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\bin\Debug\CurrentTimeeeee.pdb
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\obj\Debug\CurrentTimeeeee.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\obj\Debug\CurrentTimeeeee.exe
+C:\Users\Mark Wahlbang\source\repos\CurrentTimeeeee\CurrentTimeeeee\obj\Debug\CurrentTimeeeee.pdb
