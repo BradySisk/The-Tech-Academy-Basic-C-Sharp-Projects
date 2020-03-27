@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <h1 data-bind="text: car">Car</h1>
+  <input type="text" data-bind="value: car, valueUpdate:'afterkeydown'"/>
+  <script src=" Scripts/knockout-3.5.1.js"></script>
+  <script>
+    var vm = {
+      car: ko.observable()
+    };
+    vm.car("vroom");
+    ko.applyBindings(vm);
+  </script>
+
+</body>
+</html>
