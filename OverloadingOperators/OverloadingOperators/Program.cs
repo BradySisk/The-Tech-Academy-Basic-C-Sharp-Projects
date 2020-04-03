@@ -10,22 +10,17 @@ namespace OverloadingOperators
     {
         public static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.firstName = "Bob";
-            employee.lastName = "Bobby";
-            employee.ID = 55;
+            Employee emp1 = new Employee(1, "Bob");
+            emp1.Display();
 
-            Employee2 employee2 = new Employee2();
-            employee2.firstName = "Dale";
-            employee2.lastName = "Daley";
-            employee2.ID = 88;
+            Employee emp2 = new Employee(2, "Shirly");
+            emp2.Display();
 
-            Console.WriteLine(employee.ID == employee2.ID);
+            Console.WriteLine(emp1 == emp2);
+            Console.WriteLine(emp1 != emp2);
             Console.ReadLine();
-        }
-     
-
             
-
+        }
+       
     }
 }
