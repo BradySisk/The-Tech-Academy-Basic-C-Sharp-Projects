@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\bin\Debug\AGE.exe.config
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\bin\Debug\AGE.exe
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\bin\Debug\AGE.pdb
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\obj\Debug\AGE.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\obj\Debug\AGE.exe
+C:\Users\Mark Wahlbang\source\repos\AGE\AGE\obj\Debug\AGE.pdb
