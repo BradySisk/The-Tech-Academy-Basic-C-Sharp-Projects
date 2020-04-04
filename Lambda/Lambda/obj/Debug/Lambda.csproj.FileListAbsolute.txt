@@ -1,6 +1,0 @@
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe.config
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\bin\Debug\Lambda.pdb
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\obj\Debug\Lambda.csprojAssemblyReference.cache
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\obj\Debug\Lambda.exe
-C:\Users\Mark Wahlbang\source\repos\Lambda\Lambda\obj\Debug\Lambda.pdb
