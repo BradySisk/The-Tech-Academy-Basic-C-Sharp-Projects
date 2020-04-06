@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\bin\Debug\UserMath.exe.config
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\bin\Debug\UserMath.exe
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\bin\Debug\UserMath.pdb
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\obj\Debug\UserMath.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\obj\Debug\UserMath.exe
+C:\Users\Mark Wahlbang\source\repos\UserMath\UserMath\obj\Debug\UserMath.pdb
