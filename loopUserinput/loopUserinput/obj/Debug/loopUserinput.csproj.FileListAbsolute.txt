@@ -1,0 +1,6 @@
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\obj\Debug\loopUserinput.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\bin\Debug\loopUserinput.exe.config
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\bin\Debug\loopUserinput.exe
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\bin\Debug\loopUserinput.pdb
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\obj\Debug\loopUserinput.exe
+C:\Users\Mark Wahlbang\source\repos\loopUserinput\loopUserinput\obj\Debug\loopUserinput.pdb
