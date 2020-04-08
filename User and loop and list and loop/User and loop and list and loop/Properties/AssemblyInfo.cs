@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UserINput and loops")]
+[assembly: AssemblyTitle("User and loop and list and loop")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UserINput and loops")]
+[assembly: AssemblyProduct("User and loop and list and loop")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cc92f3e0-13c1-4461-901f-e13ef1f11a03")]
+[assembly: Guid("9bc9bf1b-2388-4e3e-9995-c4c5a8cea685")]
 
 // Version information for an assembly consists of the following four values:
 //

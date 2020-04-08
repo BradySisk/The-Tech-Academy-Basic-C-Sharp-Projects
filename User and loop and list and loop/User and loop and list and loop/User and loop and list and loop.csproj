@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC92F3E0-13C1-4461-901F-E13EF1F11A03}</ProjectGuid>
+    <ProjectGuid>{9BC9BF1B-2388-4E3E-9995-C4C5A8CEA685}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>UserINput_and_loops</RootNamespace>
-    <AssemblyName>UserINput and loops</AssemblyName>
+    <RootNamespace>User_and_loop_and_list_and_loop</RootNamespace>
+    <AssemblyName>User and loop and list and loop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
