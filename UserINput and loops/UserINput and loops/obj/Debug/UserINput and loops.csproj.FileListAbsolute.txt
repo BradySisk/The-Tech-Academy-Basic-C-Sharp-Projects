@@ -1,0 +1,7 @@
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\bin\Debug\UserINput and loops.exe.config
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\bin\Debug\UserINput and loops.exe
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\bin\Debug\UserINput and loops.pdb
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\obj\Debug\UserINput and loops.csprojAssemblyReference.cache
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\obj\Debug\UserINput and loops.csproj.CoreCompileInputs.cache
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\obj\Debug\UserINput and loops.exe
+C:\Users\Mark Wahlbang\source\repos\UserINput and loops\UserINput and loops\obj\Debug\UserINput and loops.pdb
